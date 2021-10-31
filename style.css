@@ -1,4 +1,12 @@
 body {
   background-image: url("miner.png");
-  margin: auto;
+  font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+ margin: auto;
+}
+
+p {
+ margin: auto;
 }
