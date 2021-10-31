@@ -1,12 +1,13 @@
 body {
   background-image: url("miner.png");
-  font-family: "Times New Roman", Times, serif;
+  width: 400px;
+  margin: auto;
 }
 
 h1 {
- margin: auto;
+ font-family: "Times New Roman", Times, serif;
 }
 
 p {
- margin: auto;
+ font-family: "Times New Roman", Times, serif;
 }
