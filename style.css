@@ -11,9 +11,7 @@ h1 {
   -webkit-text-fill-color: transparent;
 }
 
-hp {
-  font-size: 72px;
-  background: -webkit-linear-gradient(#eee, #333);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+p {
+  font-size: 30px;
+  color: white;
 }
