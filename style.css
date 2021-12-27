@@ -1,7 +1,6 @@
 body {
   background-image: url("miner high resolution.png");
   width: 400px;
-  margin: auto;
 }
 
 h1 {
@@ -29,4 +28,17 @@ a {
   font-weight: bold;
 }
 
+.left {
+  border: 5px outset red;
+  background-color: white;
+  text-align: center;
+  margin: left;
+}
+
+.right {
+  border: 5px outset red;
+  background-color: white;
+  text-align: center;
+  margin: right;
+}
 
