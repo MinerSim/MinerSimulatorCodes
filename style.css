@@ -31,6 +31,8 @@ a {
 div {
   border: 5px outset red;
   background-color: white;
+  padding: 10px;
+  margin: auto;
 }
 
 
