@@ -28,17 +28,11 @@ a {
   font-weight: bold;
 }
 
-.left {
+div {
   border: 5px outset red;
   background-color: white;
   text-align: center;
-  margin: left;
+  margin: auto;
 }
 
-.right {
-  border: 5px outset red;
-  background-color: white;
-  text-align: center;
-  margin: right;
-}
 
