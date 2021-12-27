@@ -18,7 +18,7 @@ h2 {
 
 h3 {
   font-size: 40px;
-  color: white;
+  color: black;
   font-weight: bold;
 }
 
@@ -31,8 +31,6 @@ a {
 div {
   border: 5px outset red;
   background-color: white;
-  text-align: center;
-  margin: auto;
 }
 
 
